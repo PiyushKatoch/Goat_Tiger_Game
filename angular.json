@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GTG"
+    }
+  },
+  "defaultProject": "GTG",
+  "cli": {
+    "analytics": "3535dbb4-eee2-4fc6-807e-2e9a5c61f477"
+  }
 }

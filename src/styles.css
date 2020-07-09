@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0 auto;
+    max-width : 100%;
+    font-family: "Brandon Grotesque Bold";
+
+}
+
+@font-face {font-family: "Brandon Grotesque Bold";
+    src: url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/6cec834e2e8f2e4206567ed75e1281d4.svg#Brandon Grotesque Bold") format("svg"); 
+}
